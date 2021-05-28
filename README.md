@@ -3,7 +3,7 @@
 
 This a the beginning repository for a tutorial on implementing draggable rows in React Admin.
 
-<img width=900 height=328 src="final.gif" alt="rows being dragged into order" />
+<img width=700 height=425 src="final.gif" alt="rows being dragged into order" />
 
 API calls with the `dataProvider` are intercepted by a [msw](https://mswjs.io/docs/getting-started/mocks/rest-api#request-handler). Additionally, because this a tutorial application, the mock API is storing and retrieving data using local storage. 
 
